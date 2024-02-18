@@ -1,3 +1,45 @@
+.......................................
+Home Page:
+
+Click on "Beer App" to access the home page.
+A search bar is present at the top to search for beers.
+Search Functionality:
+
+Type anything in the search bar to filter beers based on the entered query.
+Beer Cards:
+
+Beer cards are displayed on the home page.
+Each card represents a beer.
+Cards have an "Add to Favourite" button to add a beer to the favorites list.
+Read More / Read Less:
+
+Each beer card has a "Read More" and "Read Less" button.
+Click "Read More" to view additional details or a longer description.
+Click "Read Less" to collapse the description.
+Favorites:
+
+Access the favorites by clicking on the "Favorites" link on the right side of the screen.
+Favorites are stored in local storage for persistence.
+Favorite Beer Cards:
+
+Favorite beers are displayed on the Favorites page.
+Each card includes options to remove the beer from favorites.
+Local Storage:
+
+Data, including favorite beers, is stored in the local storage of the browser.
+This ensures that favorite beers persist even if the user refreshes the page.
+Card Interaction:
+
+Interact with beer cards by adding them to favorites or removing them.
+The state of whether a beer is a favorite or not is visually represented on the cards.
+Infinite Scroll:
+
+Scroll down on the home page triggers fetching more beers, implementing an infinite scroll.
+Responsive Design:
+
+The application is designed with responsiveness in mind using Bootstrap.
+Provides a seamless experience across different screen sizes.
+.......................................
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
