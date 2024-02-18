@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/xtracap/static/css/main.e90bda4d.css",
+    "main.js": "/xtracap/static/js/main.c0a7518e.js",
+    "static/media/xtracap.png": "/xtracap/static/media/xtracap.f92237097c783e21d396.png",
+    "index.html": "/xtracap/index.html",
+    "main.e90bda4d.css.map": "/xtracap/static/css/main.e90bda4d.css.map",
+    "main.c0a7518e.js.map": "/xtracap/static/js/main.c0a7518e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e90bda4d.css",
+    "static/js/main.c0a7518e.js"
+  ]
+}
