@@ -1,0 +1,63 @@
+/* src/components/BeerCard.css */
+
+.beerCard {
+    border-radius: 8px;
+    overflow: hidden;
+    transition: box-shadow 0.3s ease;
+    padding: 10px;
+    background-color: red;
+    margin-top: 20px;
+  }
+  
+  .beerCard:hover {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  }
+  
+  .cardImg {
+    width: 100px;
+    height: auto;
+    margin: 0 auto;
+    display: flex;
+  }
+  
+  .cardBody {
+    padding: 16px;
+    
+  }
+  
+  .cardTitle {
+    font-size: 1.5rem;
+    margin-bottom: 8px;
+  }
+  
+  .cardText {
+    color: #555;
+  }
+  
+
+
+.btn {
+  transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease, border-radius 0.3s ease;
+  border: 2px solid transparent;
+  border-radius: 6px;
+  padding: 8px 16px; /* Adjust padding as needed */
+  border: 1px solid red;
+}
+
+.btn:hover {
+  background-color: #ffc107;
+  color: #fff;
+  border-color: #ffc107;
+}
+
+.btnWarning {
+  background-color: #ffc107;
+  color: #fff;
+  border-color: #ffc107;
+}
+
+.btnOutlineWarning {
+  background-color: transparent;
+  color: #ffc107;
+  border-color: #ffc107;
+}
